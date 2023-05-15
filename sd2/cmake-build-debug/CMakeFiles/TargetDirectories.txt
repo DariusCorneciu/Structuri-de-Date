@@ -1,0 +1,3 @@
+C:/Users/Darius Corneciu/CLionProjects/sd2/cmake-build-debug/CMakeFiles/sd2.dir
+C:/Users/Darius Corneciu/CLionProjects/sd2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darius Corneciu/CLionProjects/sd2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
