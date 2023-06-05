@@ -1,0 +1,3 @@
+M:/idecpp/proiecte/tema8/cmake-build-debug/CMakeFiles/tema8.dir
+M:/idecpp/proiecte/tema8/cmake-build-debug/CMakeFiles/edit_cache.dir
+M:/idecpp/proiecte/tema8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
